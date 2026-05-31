@@ -181,7 +181,7 @@
                             <h3>Skills and Tools <i class="fa-solid fa-laptop-code ml-5 text-primary"></i> <i class="fa-solid fa-magnifying-glass-chart text-warning ml-3"></i></h3>
                             <ul class="mt-4" type="disc">
                                 <li>Front-End: JavaScript, React, React Native</li>
-                                <li>Back-End: Python, Node.Js, PHP (proficient in OOP)</li>
+                                <li>Back-End: Python, Node.js, PHP (proficient in OOP)</li>
                                 <li>Server-Side: MySQL</li>
                                 <li>Data Analysis: MS Excel, SQL, Stata, Spreadsheet, SPSS</li>
                             </ul>
